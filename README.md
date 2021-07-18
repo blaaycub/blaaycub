@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @blaaycub
+- 👋 Hi, I’m Blake
 - 👀 I’m interested in Data Science and Analysis
 - 🌱 I’m currently learning Python on Codecademy
 - 💞️ I’m looking to collaborate on data science projects pertaining to financial analysis, business forecasting, short term rentals and property management. 
