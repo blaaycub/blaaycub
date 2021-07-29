@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @blaaycub
-- 👀 I’m interested in Data Science and Analysis
-- 🌱 I’m currently learning Python on Codecademy
+- 👀 I’m interested in Data Acquisition and Analysis
+- 🌱 I’m currently working on a OTA web scraper
 - 💞️ I’m looking to collaborate on data science projects pertaining to financial analysis, business forecasting, short term rentals and property management. 
 - 📫 How to reach me - email: bdmullen11@gmail.com
 
